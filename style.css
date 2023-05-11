@@ -1,0 +1,15 @@
+body { 
+    background-color: aquamarine;
+}
+canvas {
+    border-radius: 10px;
+margin-top: 30px;
+border: 5px solid;
+border-color: black;
+}
+#nome {
+    font-size:x-large;
+}
+#precisao {
+    font-size:x-large;
+}    
